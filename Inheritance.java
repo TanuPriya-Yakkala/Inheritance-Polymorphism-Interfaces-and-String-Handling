@@ -1,4 +1,4 @@
-class Employee {  
+class Inheritance {  
   float salary=40000;  
 }  
 class Programmer extends Employee{  
