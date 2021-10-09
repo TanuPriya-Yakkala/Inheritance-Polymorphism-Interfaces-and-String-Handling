@@ -3,7 +3,7 @@ interface In1 {
 	final int a = 10;
 	void display();
 }
-class TestClass implements In1 {
+class Interfaces implements In1 {
 	public void display() {
 		System.out.println("Geek");
 	}
